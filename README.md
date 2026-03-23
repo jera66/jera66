@@ -1,117 +1,138 @@
-# 👋 Hi, I’m Jerathel — Full‑Stack Software Engineer
+<div align="center">
 
-Full‑stack software engineer specializing in enterprise systems, web development, mobile development, DevOps workflows, and game development — building scalable, multi‑platform solutions across modern stacks.
+# 🌐 **Jerathel Czerny**  
+### **Full‑Stack Software Engineer**  
+Enterprise Systems • Web Development • Mobile Development • DevOps • Game Development
+
+<br />
+
+<div style="padding: 26px 34px; border-radius: 22px; background: #1a1a1a; box-shadow: 10px 10px 25px #0e0e0e, -10px -10px 25px #262626; display: inline-block; max-width: 900px; color: #e6e6e6;">
+
+**I build enterprise‑grade, multi‑platform software systems — spanning web, mobile, backend services, DevOps workflows, and intelligent automation. Currently developing VLOSA, a large‑scale AI operating system that unifies inbox management, task orchestration, rules engines, personas, memory, and real‑time automation across platforms.**
+
+</div>
+
+<br /><br />
+
+</div>
 
 ---
 
-## 🚀 What I’m Great At
+# 🔥 **About Me**
+
+I’m a full‑stack software engineer who builds **enterprise‑level systems** that blend clean architecture, intelligent automation, and modern UI engineering. My work spans the entire stack — from backend services and distributed systems to polished web interfaces, mobile apps, DevOps pipelines, and even game development.
+
+Right now, I’m deep into **VLOSA**, a multi‑platform AI automation platform that integrates React, React Native, Node.js serverless APIs, PostgreSQL, Gmail OAuth, and OpenAI. It’s the kind of system that forces you to think like an architect — designing data models, orchestrating workflows, enforcing rules engines, and building real‑time, cross‑platform experiences.
+
+I love building systems that feel **alive**: responsive, intelligent, and thoughtfully engineered. Whether it’s a React interface, a FastAPI backend, a C# service, or a mobile experience built with React Native, I care about the details — the architecture, the UX, the performance, the maintainability.
+
+I’m constantly leveling up, especially in **C# and ASP.NET**, because I want to master enterprise backend engineering as deeply as I’ve mastered modern JavaScript ecosystems.
+
+---
+
+# 🏗️ **Major Project — VLOSA (Virtual Life Operating System Agent)**
+
+<div style="padding: 22px 28px; border-radius: 18px; background: #1a1a1a; box-shadow: 8px 8px 20px #0e0e0e, -8px -8px 20px #262626; color: #e6e6e6;">
+
+**VLOSA** is a multi‑platform AI automation system designed to manage your digital life intelligently. It unifies inbox management, task orchestration, rule enforcement, persona‑based communication, memory storage, and activity logging into a cohesive operating system.
+
+### **Core Capabilities**
+- AI‑powered inbox management (Gmail sync, summaries, draft replies)  
+- Task orchestration with approval workflows  
+- Persona engine for tone, structure, and communication style  
+- Memory bank for long‑term contextual storage  
+- Rules engine (quiet hours, communication windows, automation posture)  
+- Real‑time sync across web + mobile  
+- Full audit logging for transparency  
+
+### **Architecture Overview**
+- **Web App:** React + Vite  
+- **Mobile App:** Expo + React Native  
+- **Backend:** Node.js serverless API routes  
+- **Database:** PostgreSQL (Neon serverless)  
+- **Integrations:** Gmail API, Google OAuth2, OpenAI GPT  
+
+### **System Flow**
+1. User action → Web/Mobile  
+2. API request → Backend  
+3. Rules engine validation  
+4. Database operations  
+5. External API calls (Gmail, OpenAI)  
+6. Response + activity logging  
+7. UI updates via React Query  
+
+### **Database Highlights (Condensed)**
+- `los_user_profiles` — extended user profile  
+- `los_inbox_items` — synced emails + AI drafts  
+- `los_tasks` — task workflows  
+- `los_memory` — long‑term context  
+- `los_persona` — communication style  
+- `los_settings` — automation + rules  
+- `los_activity_log` — audit trail  
+- `los_integrations` — OAuth connections  
+
+### **Why VLOSA Matters**
+This project demonstrates:
+- System architecture  
+- Multi‑platform engineering  
+- Database schema design  
+- Authentication flows  
+- AI integration  
+- Enterprise‑grade engineering discipline  
+
+</div>
+
+---
+
+# 🧰 **Tech Stack**
+
+<div style="padding: 20px 26px; border-radius: 18px; background: #1a1a1a; box-shadow: 8px 8px 20px #0e0e0e, -8px -8px 20px #262626; color: #e6e6e6;">
 
 ### **Languages**
-- JavaScript (ES6+)
-- **Java**
-- **C# (actively learning)**
-- Python
-- SQL
-- HTML & CSS
+JavaScript • Python • Java • **C# (actively learning)** • SQL • HTML • CSS  
 
-### **Frameworks & Libraries**
-- React 18/19, React Router v7  
-- FastAPI, Node.js, Express  
-- Tailwind CSS, shadcn/ui, Radix UI  
-- React Native  
-- ASP.NET (learning alongside C#)
+### **Frontend**
+React • React Native • Tailwind • shadcn/ui • Radix UI  
 
-### **Tools & Platforms**
-- Git & GitHub  
-- Docker  
-- Vercel, Render, Netlify  
-- MongoDB, PostgreSQL  
-- Postman  
-- Supervisor  
-- Yarn & npm  
+### **Backend**
+FastAPI • Node.js • Express • PostgreSQL • MongoDB  
+
+### **DevOps**
+Docker • CI/CD • Supervisor • Vercel • Render  
+
+### **Other**
+Game development • System design • AI integrations  
+
+</div>
 
 ---
 
-## 🏗️ Major Project I’m Currently Building  
-### **VLOSA — Virtual Life Operating System Agent**  
-*A personal AI‑powered life operations platform that manages 80% of your digital life.*
+# 📌 **Highlighted Projects**
 
-This is a **massive, enterprise‑scale, multi‑platform system** consisting of:
+<div style="padding: 20px 26px; border-radius: 18px; background: #1a1a1a; box-shadow: 8px 8px 20px #0e0e0e, -8px -8px 20px #262626; color: #e6e6e6;">
 
-- **Web App (React + Vite)**  
-- **Mobile App (Expo + React Native)**  
-- **Backend API (Node.js + Serverless Functions)**  
-- **PostgreSQL (Neon Serverless)**  
-- **Gmail OAuth2 Integration**  
-- **OpenAI GPT‑powered automation**  
-- **Rules Engine, Persona Engine, Memory Bank, Activity Logging**  
-- **Neumorphic UI + custom VLOSA action overlay**
+- **VLOSA** — AI‑powered life automation OS  
+- **Rosathel Suites** — MERN hotel booking system  
+- **Portfolio** — React + FastAPI full‑stack site  
+- **Dayding** — React Native mobile app  
+- **Experiments Repo** — Algorithms, async patterns, Java/C# practice  
 
-Key capabilities include:
-
-- Intelligent inbox management with AI‑generated drafts  
-- Task orchestration with approval workflows  
-- Persona‑driven communication tone and structure  
-- Rule‑based automation (quiet hours, communication windows, auto‑run modes)  
-- Real‑time sync across web + mobile  
-- Full audit logging and enterprise‑style data modeling  
-
-This project demonstrates:
-
-- **System architecture design**  
-- **Multi‑platform engineering**  
-- **Database schema modeling**  
-- **Authentication flows (NextAuth + OAuth2)**  
-- **AI integration at scale**  
-- **Enterprise‑level engineering discipline**
-
-This is the kind of project that shows I’m not just building apps —  
-I’m building **operating systems**.
+</div>
 
 ---
 
-## 📌 Other Pinned Projects (My Engineering Story)
-
-### **Portfolio (React + FastAPI + MongoDB)**
-A full‑stack, production‑ready portfolio with a custom design system, backend API, email notifications, and enterprise‑style architecture.
-
-### **Rosathel Suites (MERN Stack)**
-A hotel booking platform with authentication, admin dashboards, availability logic, and real‑world workflows.
-
-### **Dayding (React Native + PostgreSQL)**
-A mobile dating platform with chat, onboarding, and profile systems.
-
-### **Agency Studio (WordPress/PHP)**
-A custom CMS‑driven agency website.
-
-### **Learning & Experiments Repo**
-Algorithms, async patterns, Java/C# practice, and system design exercises.
-
----
-
-## 🧠 How I Build Software (My Engineering Philosophy)
-
-- I design components, APIs, and data models before writing code  
-- I optimize for readability, maintainability, and scalability  
-- I document decisions, trade‑offs, and assumptions  
-- I build with real‑world constraints in mind (pagination, retries, error handling)  
-- I test features manually and programmatically  
-- I treat every project like a production system  
-- I care about UX, performance, and long‑term maintainability  
-
----
-
-## 📈 What I’m Learning Right Now
-
-- **C# and ASP.NET** for enterprise backend development  
+# 📈 **What I’m Learning**
+- C# & ASP.NET for enterprise backend development  
 - Advanced React patterns  
 - System design fundamentals  
-- Testing (Jest, React Testing Library, Pytest)  
-- TypeScript for large‑scale applications  
+- Testing (Jest, Pytest, RTL)  
+- TypeScript for large‑scale apps  
 
 ---
 
-## 💬 Let’s Connect
+# 🤝 **Connect With Me**
+
+<div style="padding: 20px 26px; border-radius: 18px; background: #1a1a1a; box-shadow: 8px 8px 20px #0e0e0e, -8px -8px 20px #262626; color: #e6e6e6;">
 
 - **GitHub:** https://github.com/jera66  
 - **Portfolio:** https://a-jerathel-portfolio.vercel.app  
@@ -119,9 +140,16 @@ Algorithms, async patterns, Java/C# practice, and system design exercises.
 - **LinkedIn:** https://www.linkedin.com/in/jerathel-czerny-323132163/  
 - **Email:** jerathelczerny@yahoo.com  
 
----
+</div>
 
-## 🎯 Final Note
+<br />
 
-I’m constantly improving my craft — building full‑stack systems, learning new languages like **C#**, and pushing toward enterprise‑level engineering excellence.  
-Right now, my main focus is **VLOSA**, a large‑scale AI automation platform that showcases my ability to design and build complex, multi‑platform systems.
+<div align="center">
+
+<div style="padding: 16px 24px; border-radius: 999px; background: #1a1a1a; box-shadow: 6px 6px 16px #0e0e0e, -6px -6px 16px #262626; display: inline-block; color: #e6e6e6;">
+
+✨ Always building. Always learning. Always leveling up. ✨
+
+</div>
+
+</div>
