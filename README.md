@@ -1,3 +1,30 @@
+<p align="center">
+  <!-- Animated Neumorphic Glow Header -->
+  <img src="YOUR_ANIMATED_HEADER_URL_HERE" alt="Jerathel Czerny — Animated Neumorphic Header" />
+</p>
+
+<!-- Optional: Animated Gradient Banner (use one or the other above) -->
+<!--
+<p align="center">
+  <img src="YOUR_ANIMATED_BANNER_URL_HERE" alt="Jerathel Czerny — Animated Gradient Banner" />
+</p>
+-->
+
+<p align="center">
+  <!-- Neumorphic-Style Badges -->
+  <img src="https://img.shields.io/badge/Full--Stack-Engineer-4b4b5a?style=for-the-badge&logoColor=f5f5f7&labelColor=1b1b1f&color=2b2b3a" />
+  <img src="https://img.shields.io/badge/Enterprise%20Systems-Architecture-4b4b5a?style=for-the-badge&labelColor=1b1b1f&color=2b2b3a" />
+  <img src="https://img.shields.io/badge/Web%20%26%20Mobile-React%20%7C%20React%20Native-4b4b5a?style=for-the-badge&labelColor=1b1b1f&color=2b2b3a" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-4b4b5a?style=for-the-badge&labelColor=1b1b1f&color=2b2b3a" />
+  <img src="https://img.shields.io/badge/Game%20Dev-Exploring-4b4b5a?style=for-the-badge&labelColor=1b1b1f&color=2b2b3a" />
+</p>
+
+<p align="center">
+  <!-- Animated Neumorphic Tagline Button -->
+  <img src="YOUR_ANIMATED_TAGLINE_URL_HERE" alt="Always Building · Always Leveling Up" />
+</p>
+
+<br />
 <div align="center">
 
 # 🌐 **Jerathel Czerny**  
