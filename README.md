@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Animated Neumorphic Glow Header -->
-  <img src="YOUR_ANIMATED_HEADER_URL_HERE" alt="Jerathel Czerny — Animated Neumorphic Header" />
+  <img src="https://raw.githubusercontent.com/jera66/jera66/refs/heads/main/assets/header.svg" alt="Jerathel Czerny — Animated Neumorphic Header" />
 </p>
 
 <!-- Optional: Animated Gradient Banner (use one or the other above) -->
