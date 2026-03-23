@@ -21,7 +21,7 @@
 
 <p align="center">
   <!-- Animated Neumorphic Tagline Button -->
-  <img src="YOUR_ANIMATED_TAGLINE_URL_HERE" alt="Always Building · Always Leveling Up" />
+  <img src="https://raw.githubusercontent.com/jera66/jera66/refs/heads/main/assets/tagline.svg" alt="Always Building · Always Leveling Up" />
 </p>
 
 <br />
