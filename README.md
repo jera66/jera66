@@ -1,15 +1,3 @@
-<!-- <p align="center">
-  <!-- Animated Neumorphic Glow Header -->
-  <img src="https://raw.githubusercontent.com/jera66/jera66/refs/heads/main/assets/header.svg" alt="Jerathel Czerny — Animated Neumorphic Header" />
-</p> -->
-
-<!-- Optional: Animated Gradient Banner (use one or the other above) -->
-<!--
-<p align="center">
-  <img src="YOUR_ANIMATED_BANNER_URL_HERE" alt="Jerathel Czerny — Animated Gradient Banner" />
-</p>
--->
-
 <p align="center">
   <!-- Neumorphic-Style Badges -->
   <img src="https://img.shields.io/badge/Full--Stack-Engineer-4b4b5a?style=for-the-badge&logoColor=f5f5f7&labelColor=1b1b1f&color=2b2b3a" />
