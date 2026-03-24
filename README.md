@@ -6,12 +6,6 @@
   <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-4b4b5a?style=for-the-badge&labelColor=1b1b1f&color=2b2b3a" />
   <img src="https://img.shields.io/badge/Game%20Dev-Exploring-4b4b5a?style=for-the-badge&labelColor=1b1b1f&color=2b2b3a" />
 </p>
-
-<p align="center">
-  <!-- Animated Neumorphic Tagline Button -->
-  <img src="https://raw.githubusercontent.com/jera66/jera66/refs/heads/main/assets/tagline.svg" alt="Always Building · Always Leveling Up" />
-</p>
-
 <br />
 <div align="center">
 
