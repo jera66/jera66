@@ -1,12 +1,3 @@
-<p align="center">
-  <!-- Neumorphic-Style Badges -->
-  <img src="https://img.shields.io/badge/Full--Stack-Engineer-4b4b5a?style=for-the-badge&logoColor=f5f5f7&labelColor=1b1b1f&color=2b2b3a" />
-  <img src="https://img.shields.io/badge/Enterprise%20Systems-Architecture-4b4b5a?style=for-the-badge&labelColor=1b1b1f&color=2b2b3a" />
-  <img src="https://img.shields.io/badge/Web%20%26%20Mobile-React%20%7C%20React%20Native-4b4b5a?style=for-the-badge&labelColor=1b1b1f&color=2b2b3a" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-4b4b5a?style=for-the-badge&labelColor=1b1b1f&color=2b2b3a" />
-  <img src="https://img.shields.io/badge/Game%20Dev-Exploring-4b4b5a?style=for-the-badge&labelColor=1b1b1f&color=2b2b3a" />
-</p>
-<br />
 <div align="center">
 
 # 🌐 **Jerathel Czerny**  
