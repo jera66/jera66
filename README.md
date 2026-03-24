@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <!-- Animated Neumorphic Glow Header -->
   <img src="https://raw.githubusercontent.com/jera66/jera66/refs/heads/main/assets/header.svg" alt="Jerathel Czerny — Animated Neumorphic Header" />
-</p>
+</p> -->
 
 <!-- Optional: Animated Gradient Banner (use one or the other above) -->
 <!--
@@ -175,7 +175,7 @@ Game development • System design • AI integrations
 
 <div style="padding: 16px 24px; border-radius: 999px; background: #1a1a1a; box-shadow: 6px 6px 16px #0e0e0e, -6px -6px 16px #262626; display: inline-block; color: #e6e6e6;">
 
-✨ Always building. Always learning. Always leveling up. ✨
+ Always building. Always learning. Always leveling up.
 
 </div>
 
