@@ -18,7 +18,7 @@ Enterprise Systems • Web Development • Mobile Development • DevOps • Gam
 
 ---
 
-# 🔥 **About Me**
+# **About Me**
 
 I’m a full‑stack software engineer who builds **enterprise‑level systems** that blend clean architecture, intelligent automation, and modern UI engineering. My work spans the entire stack — from backend services and distributed systems to polished web interfaces, mobile apps, DevOps pipelines, and even game development.
 
